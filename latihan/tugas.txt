@@ -1,0 +1,130 @@
+ <h5 class="text-primary">RPL</h5>
+                            <h5 class="text-primary">REKAYASA PERANGKAT LUNAK</h5>
+                            <br>
+                            <p class="card-text">
+                                Pilihan berkualitas untuk generasi cerdas.
+                                Program pembelajaran berbasis Teknologi Informasi, siap menjadi bekal keahlian membentuk
+                                progammer handal yang mampu mengembangkan diri sesuai tuntutan kemajuan zaman, menjawab
+                                peluang
+                                kerja berbasis teknologi komputer di berbagai sektor.
+                            </p>
+<h5 class="text-danger">TBSM</h5>
+                                <h5 class="text-danger">Jurusan Teknik Sepeda Motor</h5>
+
+                                <p class="card-text">
+                                    Pilihan tepat untuk mekanik hebat.
+                                    Pembelajaran praktik yang inovatif, siap melatih siswa agar mampu menerapkan
+                                    pengetahuan
+                                    secara logis, kritis, dan kreatif. Pemahaman konsep disertai praktik menjadi modal
+                                    dasar
+                                    para calon mekanik handal sehingga
+                                    mampu mengaplikasikan dasar operasional komponen dan unit sistem pada otomotif.
+                                    Lulusan
+                                    TSM kami, siap tempur ditengah serbuan produksi Sepeda Motor yang kian canggih dan
+                                    menjamur.
+                                </p>
+<h5 class="text-primary">TKRO</h5>
+
+                                <h5 class="text-primary">Jurusan Teknik Kendaraan Ringan</h5>
+                                <br>
+
+                                <p class="card-text">
+                                    Pilihan berkualitas untuk generasi cerdas.
+                                    Program pembelajaran berbasis Teknologi Informasi, siap menjadi bekal keahlian
+                                    membentuk
+                                    progammer handal yang mampu mengembangkan diri sesuai tuntutan kemajuan zaman,
+                                    menjawab
+                                    peluang kerja berbasis teknologi komputer di berbagai sektor.
+                                </p>
+PAKE CENTER SEMUA
+
+<div class="row row-cols-2 row-cols-md-2">
+        <div class="col mb-2 container">
+
+            <div class="card mb-1" style="max-width: 800px;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+
+                        <img src="image/rpl.png" width="195" height="295"
+                            style=" border: 2px solid #0099ff; border-radius: 3px;">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="text-primary">RPL</h5>
+                            <h5 class="text-primary">REKAYASA PERANGKAT LUNAK</h5>
+                            <br>
+                            <p class="card-text">
+                                Pilihan berkualitas untuk generasi cerdas.
+                                Program pembelajaran berbasis Teknologi Informasi, siap menjadi bekal keahlian membentuk
+                                progammer handal yang mampu mengembangkan diri sesuai tuntutan kemajuan zaman, menjawab
+                                peluang
+                                kerja berbasis teknologi komputer di berbagai sektor.
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <br>
+
+            <div class="card mb-1" style="max-width: 800px;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+
+                        <img src="image/tsm.png" width="195" height="295"
+                            style=" border: 2px solid red; border-radius: 1px;">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <center>
+                                <h5 class="text-danger">TBSM</h5>
+                                <h5 class="text-danger">Jurusan Teknik Sepeda Motor</h5>
+
+                                <p class="card-text">
+                                    Pilihan tepat untuk mekanik hebat.
+                                    Pembelajaran praktik yang inovatif, siap melatih siswa agar mampu menerapkan
+                                    pengetahuan
+                                    secara logis, kritis, dan kreatif. Pemahaman konsep disertai praktik menjadi modal
+                                    dasar
+                                    para calon mekanik handal sehingga
+                                    mampu mengaplikasikan dasar operasional komponen dan unit sistem pada otomotif.
+                                    Lulusan
+                                    TSM kami, siap tempur ditengah serbuan produksi Sepeda Motor yang kian canggih dan
+                                    menjamur.
+                                </p>
+                            </center>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <br>
+
+            <div class="card mb-1" style="max-width: 800px;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="image/tkr.png" width="195" height="295"
+                            style=" border: 2px solid blue; border-radius: 1px;">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <center>
+                                <h5 class="text-primary">TKRO</h5>
+
+                                <h5 class="text-primary">Jurusan Teknik Kendaraan Ringan</h5>
+                                <br>
+
+                                <p class="card-text">
+                                    Pilihan berkualitas untuk generasi cerdas.
+                                    Program pembelajaran berbasis Teknologi Informasi, siap menjadi bekal keahlian
+                                    membentuk
+                                    progammer handal yang mampu mengembangkan diri sesuai tuntutan kemajuan zaman,
+                                    menjawab
+                                    peluang kerja berbasis teknologi komputer di berbagai sektor.
+                                </p>
+                            </center>
+                        </div>
+                    </div>
+                </div>
+            </div>
